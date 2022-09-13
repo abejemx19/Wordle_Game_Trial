@@ -3,7 +3,7 @@
 
 Submitted by: **Mikias Abeje**
 
-**Name of your app** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
+**Wordle Trial** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
 Time spent: **7** hours spent in total, mainly researching and trying to understand how to start
 
@@ -11,8 +11,8 @@ Time spent: **7** hours spent in total, mainly researching and trying to underst
 
 The following **required** functionality is completed:
 
-- [ ] **User has 3 chances to guess a random 4 letter word**
-- [ ] **After 3 guesses, user should no longer be able to submit another guess**
+- [x] **User has 3 chances to guess a random 4 letter word**
+- [x] **After 3 guesses, user should no longer be able to submit another guess**
 - [ ] **After each guess, user sees the "correctness" of the guess**
 - [ ] **After all guesses are taken, user can see the target word displayed**
 
@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
